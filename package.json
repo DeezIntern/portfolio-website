@@ -17,5 +17,9 @@
     "concurrently": "^7.6.0"
   },
   "author": "Aslesh Choudhary",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
 }
